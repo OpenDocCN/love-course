@@ -1,10 +1,10 @@
-# 两性情感课程笔记 2016-2019
+# 两性情感课程笔记
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
 > 承认吧，我们是弱者，正因为生来什么都没有，因此我们能拥有一切，以身为弱者而骄傲吧！——《游戏人生》
 
-* [在线阅读](https://lvcs1619.flygon.net)
+* [在线阅读](https://lvcs.flygon.net)
 
 ## 红丸十二条军规
 
@@ -37,8 +37,8 @@
 ### Docker
 
 ```
-docker pull apachecn0/love-course-2016-2019
-docker run -tid -p <port>:80 apachecn0/love-course-2016-2019
+docker pull apachecn0/love-course
+docker run -tid -p <port>:80 apachecn0/love-course
 # 访问 http://localhost:{port} 查看文档
 ```
 
@@ -46,8 +46,8 @@ docker run -tid -p <port>:80 apachecn0/love-course-2016-2019
 ### NPM
 
 ```
-npm install -g love-course-2016-2019
-love-course-2016-2019 <port>
+npm install -g love-course
+love-course <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
