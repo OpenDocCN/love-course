@@ -1,0 +1,269 @@
+# RSD泰勒《蓝图解码2.0重铸蓝图》：12.解除部落思维限制：削弱表达恐惧_ev
+
+🎼我是社交光谱莱特，那么我们继续蓝图2。0之旅。本次呢我们又是一节实操课，我们可以看到泰勒去引导学员去突破自己的心理障碍，来提升视民。
+
+Want to do this one last vocal exercise right now。 And in doing so。
+
+ my main goal here is I want to get it to where。You beat this projection issue。 So when you speak。
+
+ you should be able to be heard to the back of a room very easily。But it's a huge problem。 Okay。
+
+ so you come up here。Yep， yep， you were correct， pointing yourself。Okay， let's get you up here。
+
+And likewise， let's get you up here right now， okay？So。Just go What's happening there， What's。
+
+ What's his voice doing him saying， don't mate。His entire voice is built。 Mo to the front。
+
+ You move to the front。 His voice is built to not mate。 Can you see it。
+
+It's specifically designed to make sure nobody will mate with him。I'm not even trying。
+
+ Show me as hard as you can。that I'm not trying。 He's trying as hard as he can。
+
+ And I'm how much percent louder am I。那我饭。look at this， watch this， here's the power projection。
+
+ watch this。😡，EThat's not even loud。Go as loud as you can。Is that as loud as you can do you believe。
+
+Show me he I'm barely trying。I'm barely trying。Okay， loud as you can。I'm going to barely try guys。
+
+ I at 13% louder than him at 100%。You see that。 So what's happening is his mind is like， no， no， no。
+
+ no， no， no， no， no， no， don't let him mate。 Don't let it mate。 We't know who the alpha is。
+
+ We don't know who the alpha is。It's all tribal。 It's just， it's all tribal。
+
+ His mind doesn't want him to mate because he doesn't know who the alpha is。
+
+ And there's a fear that what could happen is that the alphas could come harm him。 Now。
+
+ in most of human evolution， was there a police force。No。
+
+ so what would happen if you mate with the little alpha Pas mates， what happens？You die。
+
+ So that's a survival mechanism。 It's a vestige of survival。 It's meant to block you question。
+
+I don't know， let's try， think about mating， okay， now try。呃。I guess it does。Pull out， you know。
+
+ pull out like a porn side on your phone you're like。Okay， you give it a try。Lage again。へ？Good。
+
+ now he's doing it， which is great， but he's forcing the physiology is the inner game there yet or no？
+
+Okay， but you're doing great sound， though， that's great。 Okay。
+
+ so watch you do as loud as you can and I'll try to match you go ahead。
+
+go as loud as you physically can。Hey， what's up guys， I'm not even going that loud。
+
+ he's giving everything he has。Okay， so it's， it's a trick of the mind。 In effect， right。
+
+ let's get you up here to do it。 You're going to just get crush your。嗯。Okay， show me。Yeah。
+
+ this is like its a dumpster fire right here。 Everything in him right now is like。
+
+ don't mate with me。 Don't mate with me。 Don't mate with me。 Don't mate with me。 Don't mate with me。
+
+ I don't know who the alpha is And I'm scared。 I'm scared。 I'm scared。 I'm scared。 I'm scared。
+
+ I'm scared。 I'm not smart。 I don't think I don't apply for high status jobs。 I don't do anything。
+
+ I'm just a nice man。 Just nice。 leave me alone。 Nothing to see here。 There's nothing to see here。
+
+ Not me。 Don't assassinate me。 Don't hurt me。 Don't mate with me。 I'm just a nice， nice guy。
+
+ I put up my eyebrows。 I shake my head。 I don't have a thought。 That is not condoed by。Google。
+
+ I don't think anything wrong。 No wrong thing here。 I'm my sheep。
+
+ but you tell me to do something horrible。 as long as it's coming from upstairs。
+
+ I'm just following orders。 I'm nice。 I'm nice。 Oh， I pulled the string。 Why do I do that。
+
+ He said to do it。 I'm just following orders。 Just a nice guy。 Just nice guy。
+
+ I'm just a nice little guy。 I just kill three other people。 but I just follow orders。
+
+ I'm a nice guy。 I'm a nice guy。 He's a mean one。 Go kill him。 Go kill him。 I just nice。
+
+ I'm just nice。 I'm just nice at me。 Look at me。 I do what I don't just follow orders。
+
+ Don't maybe me。 Okay， so that's that's pretty much what。😊，Fuck this so okay， so we got to fix that。
+
+ Okay， remember I we got to add pain。 Okay， like there's no， I don't trust you。100%。
+
+ you're the guy that just violent orders。 It's not。
+
+ you think independently thinking people during some kind of massive murder situation。 do that。 No。
+
+ they're like， what are you talking about， Are you crazy。 stop。 You know， it's all， okay。
+
+ that's why it's dangerous to have a sociopathic leader because the majority of people in a Dp state。
+
+ and they'll literally just rally them to do anything。 You ever see these crazy movies。
+
+ like they're charging down like like， you know， from like the old and medieval era。
+
+ they're charging down some cliff。 like all slaughting each other。 ever look at thatre like。
+
+ there's no way I'm doing that。 And yet it used to happen all the time。😡。
+
+Happened to all the time part of regular life。So people will just fall in orders， man。
+
+ a the nice guy is not a nice guy， a nice guy is just somebody who's hiding at the center and is just falling orders。
+
+ No wrong things to me， none of the naughty thoughts， I'm just following orders。
+
+ So if we want to create a society of leaders， We've got to make it to where that's not an acceptable thing。
+
+ You've got you're gonna be a nice guy， be a nice guy for a real reason。
+
+ for real core values for ethics to make the world better because you want to leave an impact。
+
+ What would you die for， ask yourself questions like that。😡，し名。It wants to come out， show me again。
+
+ say I wouldn't pull the rope I wouldn't pull the rope， I'm not part of a genocide。
+
+ I'm not part of a genocide， I'm okay to ma， I'm okay to mate， really though really though。
+
+ I know you don't believe me， I know you don't believe me， but really want to。
+
+I really would like you， though， I really like you， though。
+
+I don't think I'm going to get killed for mating。 for mating He looks at the ground， let you see it？
+
+I don't think I'm going to get killed for me。 He thinks he's going to get killed。 He actually does。
+
+He may not largely have thought of it， but it's unconscious。Okay。
+
+ look at the crowd say I'm not going to get killed for mating。I'm not going to get killed for mating。
+
+ Say I am going to be， say I am going to get killed for mating。 I am going to get killed by mating。
+
+ okay。Okay， it's， it's it's a fear based thing。 Someone's got to come in and have an intervention。
+
+ right， That's what this week it is。 We've got three more days， right。
+
+ We're barely even scratching the surface here， Okay， so。Show me projection again， grab the mic。Okay。
+
+ so he's getting there， he's looking more comfortable， he's coming out of it。 and again。
+
+ the degree to which his voice is doing this is the degree to which his thoughts are in a high fidelity mode。
+
+😡，Me being able to go， means I can also come up with improvisational seminar。
+
+ It also means I can come up with products。 It also means I can go meet somebody and have things to talk about and not need the secret line。
+
+ So， okay， which to me is like a joke。 So。Move your hands in bed just to get the energy moving。
+
+Live your hands， go。Good sees moving right The movement actually gets you out of your head。
+
+ so why people like to dance， it gets you out of the head， you take so much action。
+
+ you shut down the thinking mind， say it with me， take so much action。
+
+ you shut down the thinking mind。😡，So what you're seeing here is like， just go。う。
+
+You see how it's a little bit easier when he's moving。 You see that。
+
+ We'll talk about that more later。 The movement shuts down the thinking mind。
+
+ Or if the whole tribe does it。 part of why people love dances like the macarna is because everybody else is doing it。
+
+ So it's safe。 or they like a song with lyrics that everybody can sing together because it's safe or they want to go to that rave Well practice they did Molly。
+
+ but also because it's safe， So it's like what you did is people like to be in an environment where if everybody's moshing。
+
+ It's like， oh now I can。 But I want to get you to the point that you don't rely on everybody doing that。
+
+ One of my favorite things to do on boot camp is starting the mosh pit。
+
+ I want to be the guy starting the macarna starting the mosh pit。😡。
+
+I want to be the one that's the leader getting everybody else to do it。
+
+ I do this on boot camp all the time。 I start dancing circles。 Everybody's around me。
+
+ I'm going crazy。 The whole crowd's cheering， going psycho。 I do it all the time on program。
+
+ I want to teach you to be the person who's the leader。
+
+ not the person who's the sheep because here's what happens in these situations。 Okay。
+
+ Sa that you are say like one guy starts dancing。😡，Then another guy comes。
+
+ There may be a few more come。 What will happen across a tipping point where most people are sitting there in in frozen in a frozen state。
+
+ right， like how your mind is generally frozen， which is why you can't apply for better jobs because your brain's frozen。
+
+ So what's happening is you're sitting here， and you're frozen。 But then when everybody。
+
+ when enough other people start to dance， why does why does the person who's frozen suddenly jump up。
+
+ why。😡，It's the permission seeking， but also what's more dangerous at that point？
+
+When half the crowd has started dancing， what's more dangerous now to not dance。 So now they're like。
+
+ oh， the safe thing is dance。 Be， you know， and then they come， bad， bad， be， you know。
+
+ what are we doing， bad， Are you doing so。You so that's what winds up happening。
+
+ So that's why people love it when everybody's doing it because it gives permission。
+
+ which is great because like， say that we will all yell together right now。
+
+ Look how easy it is when we all do it together right。 Just go everybody now go。😊，Stop， right。
+
+ But then， and see how easy that is。 But then say， I tell you to yell that same loudness。 Do it now。
+
+Right he can't heal。 He actually did decent and he could remember what it's like。
+
+ but now watch it with the crowd， watch how much easier it is crowd。Now single， single。 okay。
+
+ so you could remember it。 Remember I said that psychedelic thing。 like you have the moment。
+
+ tried to remember it。 So before in the group， I could see a smile When I said that alone。
+
+ you look scared and retracted。 Then we did it again in the group， you smiled。
+
+ And then actually on your own， you smiled a bit more。 Everybody again。😊，S。Now do it on your own。
+
+Here， stand up here。Yell to the group， okay， yell stand like right here。😡，Okay， face the group。😡。
+
+Do an now？Stop everybody together。Alone。A bit better。 Can you see that， He has some。
+
+ what would you rate him in terms of internal permission out of town， where would you rate him？
+
+I'd aim around a seven， okay？Because I'm not just going at volume。
+
+ I'm also going at like resonance and the richness of it， okay e。Do it okay， it's rich。
+
+ it's seasonally rich， okay， okay， could you give everybody a hand up here？はい。👏So。
+
+What we'll do throughout wrap the day。Hop in your groups and practice the projection both in the group and solo。
+
+ Okay， you guys jump back there with me。 Everybody else go solo or do it within your group。
+
+ and I'll come back here in about 8 minutes。 Okay， let's get it going。 hear's some noise。😡。
+
+很多人在公开表达时啊会感到恐惧，不自在，声音无法自然的释放出来，这就是原始的部落思维和生存本能。当然我们要克服这种障碍，仅仅依靠意志力是不够的，因为这种恐惧是下意识的根植于我们身体的本能反应。
+
+我们可以通过肢体动作，比如跳舞喊叫来释放能量，从而绕过大脑的一个控制。当大家一起喊叫的时候，其实我们每个人都能感到安全和被接纳。但当你需要单独去表达时，这种恐惧感又会显现出来。
+
+所以我们为什么会有男同学嘛，这种高级的社群，就是让大家一起凝聚在一起共同交流。当然，在高级社群中，我也是会作为大家的一个教练啊去给大家进行针对性的解读和练习。通过这种体验式的学习。
+
+让你们可以更清晰的认识到自己的局限，看到提升的一个方向，当你们看到其他人的进步的时候，也会受到鼓舞和启发。一个人的声音是否有力量，它不仅取决于音量，更取决于他的肢体情感意念是否统一，能否自然的去流。😡。
+
+动他就需要更完美的放下防备，来接纳真实的自我，让内心的力量得以彻底的释放。这是一个需要勇气和练习的一个过程。我们要区分从众和领导两种形态，一个真正有力量的人应该敢于打破常规，勇于去表达自我。
+
+用行动来影响他人，而不是随波逐流，依赖外界的认可。就当一个人的内心足够强大的时候，他的声音才能穿透人心，成为一股可以改变世界的力量，想要持续保持高质量的输出能力。
+
+首先需要对文字的逻辑结构有一个清晰的一个认识。因为文字呢其实影响着我们的思想和语言表达本身。语言学家沃尔夫说，我们使用的语言，在很大程度上塑造了我们对世界的认知。
+
+这也是我们表达者训练营中所强调和培养的关键技能之一。因为我们接下来会有一个表达者训练营。所以语言表达的一个奥秘，就是真正有影响力的声音，来自来自他的内在力量的一个紧密结合。这需要我们突破条。
+
+渐反射的恐惧，接纳真实的自我。我反复强调了，一定要接纳真实的自我，用全身心去感受生命的一个律动。就当我们的身体情感意念，完全统一，我们的声音才能够穿透表象触达本质。当我们敢于去释放偏性，敢于去彰显自我。
+
+我们就突破了内心的桎梏，活出了生命的本来的一个面目，我们不再是芸芸众生的意愿，而是独一无二的创造表达者，这就叫觉醒。我们将从提现木偶变成了生命的艺术家，从被动的努力变成了自己的主人。好，我们这节课结束。
+
+这几节课呢都是实操性的练习。我希望大家看完之后，能有收获，更好的去表达自己。我是社交光谱莱特。我们这部分初级班的一个内容其实已经更新完毕了。更多精彩的内容，更多后续的课程，关注公众号社交光谱。
+
+因为后面我还会给大家去更新高级班的一些东西。

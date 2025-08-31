@@ -1,0 +1,35 @@
+- answers: '-   这首歌曲的演唱者是RXRETXPEVISIXN。
+
+    -   这首歌曲可以在Phonk收录的专辑中找到。
+
+    -   此音乐分享中提到的另一位音乐家是FreshAndFit。
+
+    -   当听到"KILLA KILLA!"这首歌曲时，我正在听RXRETXPEVISIXN的音乐。
+
+    -   这首歌曲属于Phonk流派的音乐。'
+  qas:
+  - 问题1：这篇文本的主题是什么？
+  - 回答1：音乐分享和具体的歌曲信息。
+  - 问题2：这篇文本中提到的歌曲名称是什么？
+  - 回答2：KILLA KILLA! - RXRETXPEVISIXN。
+  - 问题3：文本中提到的平台或者收录者是谁？
+  - 回答3：Phonk收录。
+  - 问题4：有没有提到具体的音乐风格？
+  - 回答4：没有提到具体的音乐风格。
+  - 问题5：文本中提到的其他重复信息是什么？
+  - 回答5：【FUNK LAB】。
+  questions: '-   这首歌曲的演唱者是谁？
+
+    -   在哪个专辑中可以找到这首歌曲？
+
+    -   此音乐分享中提到的另一位音乐家是谁？
+
+    -   当听到"KILLA KILLA!"这首歌曲时，你正在听哪位音乐家的音乐？
+
+    -   这首歌曲属于哪个流派的音乐？'
+  summary: "-   这段音乐分享介绍了一首名为\"KILLA KILLA!\"的歌曲，收录在Phonk专辑中。\n    1.  歌曲名称为\"KILLA\
+    \ KILLA!\"\n    2.  收录在Phonk专辑中\n    3.  歌曲由FreshAndFit演唱\n-   歌曲播放时，你正在听FUNK\
+    \ LAB的音乐。\n    1.  歌曲播放时，你正在听FUNK LAB的音乐\n    2.  FUNK LAB\n    3.  FUNK LAB"
+  text: '# 【音乐分享】KILLA KILLA! - RXRETXPEVISIXN ｜ Phonk收录 - P1 - FreshAndFit - BV1go4y1u77vYou
+    are listening to FUNK LAB，【FUNK LAB】，【FUNK LAB】，【FUNK LAB】，【FUNK LAB】，【FUNK LAB】，【FUNK
+    LAB】。【FUNK LAB】，【FUNK LAB】，【FUNK LAB】。'

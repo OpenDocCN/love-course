@@ -1,0 +1,12 @@
+# 当女生跟你说七夕节快乐，如何撩她一波 - P1 - 恋爱新学堂 - BV1Bt4y137iE
+
+音樂，音樂，A-G-G-A-P-U-L-U-L-U-L- U-U-L-U-L，B-U-U-B-U-L-U！plain fabric of，benzinelli new wave。
+
+check that boogie matrix wave，drop it drop it on the floor，bam bam slam slam bam。
+
+p-p-p-p-p-p-p-p-p-p-pünehm，bam bam slam slam bam，check that boogie matrix wave。
+
+drop it drop it on the floor，bam bam slam slam bam，3 2 1，高潮里最美的花，多红的花儿啊，到地下遍地是花香，流浪的人啊，心中有了她，花里人们拜托啊。
+
+1 2 3 4，是 它 真 是很 的 乖 小 朋友 啊 又 是 然 后 的 結果 啊 又 是 更 冷。
+

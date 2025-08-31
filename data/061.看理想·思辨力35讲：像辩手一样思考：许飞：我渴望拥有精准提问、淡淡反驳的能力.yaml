@@ -1,0 +1,52 @@
+- answers: '-   The author desires to acquire the ability to ask precise questions
+    and offer subtle rebuttals.
+
+    -   The author views life as filled with confusion and complexity, and sees debate
+    programs as a way to navigate through this confusion. They believe that debate
+    programs have the potential to help people think critically and shape their character.
+
+    -   The author hopes that debate programs will help the audience, like themselves,
+    to persistently engage in critical thinking and continuously shape their minds,
+    making them more open, critical, and dialogic.
+
+    -   The author perceives debate programs as not only platforms for debate but
+    also as opportunities for teaching and learning how to observe one''s own and
+    others'' cliches and biases. They see debate programs as a way to foster critical
+    thinking and shape one''s character.
+
+    -   The author admires the convincing power, sparse logic, and teaching ability
+    of debate programs, and seeks to cultivate open-mindedness, critical thinking,
+    and dialogic abilities through engagement with these programs.'
+  qas:
+  - 问题1：文本讨论的主题是什么？
+  - 回答1：讨论的主题是阿旁的辩论节目和其对提问和反驳能力的重视。
+  - 问题2：许飞对节目的期待主要体现在哪些方面？
+  - 回答2：许飞期待节目能帮助听众拥有精准提问和淡淡反驳的能力，以及通过辩论节目学习如何明察事物，改善思维方式。
+  - 问题3：节目被描述为什么具有诱惑力？
+  - 回答3：节目被描述为具有聪明的决策和愉悦的说服力，同时在教授如何明察事物和批判性思维方面具有强大的教学能力。
+  - 问题4：许飞希望新节目能为听众带来什么样的益处？
+  - 回答4：许飞希望新节目能帮助听众坚持不懈地思考，通过学习塑造心灵，开放头脑，提升批判性思维和对话能力。
+  - 问题5：节目中提到的“Holaances”和“common”指的是什么？
+  - 回答5：“Holaances”和“common”指的可能是节目中讨论的话题或主题。
+  questions: '-   What specific abilities does the author desire to acquire, as mentioned
+    in the summary?
+
+    -   How does the author view life, and what role does debate programs play in
+    their perspective?
+
+    -   What is the author''s hope regarding the impact of debate programs on the
+    audience?
+
+    -   How does the author perceive the nature of debate programs in relation to
+    fostering critical thinking and shaping one''s character?
+
+    -   What attributes does the author admire and seek to cultivate through engagement
+    with debate programs?'
+  summary: "-   作者渴望拥有精准提问、淡淡反驳的能力，推荐辩论节目，希望能帮助听众勤于思考，塑造心灵。\n    1.  作者羡慕能够精准提问、淡淡反驳的能力，希望通过学习获得这种能力。\n\
+    \    2.  作者认为生活充满迷雾，希望沉浸在辩论节目中，明察自己和他人的陈词烂调。\n    3.  作者希望辩论节目能让听众勤于思考，塑造心灵，让头脑更具开放、批判和对话性。"
+  text: '# 061.看理想·思辨力35讲：像辩手一样思考：许飞：我渴望拥有精准提问、淡淡反驳的能力类似欧洲的世界，或者是街坊——，前夕或日lig 하나商
+    praise，那个 rollercoaster，期待很久的辩论节目，阿龐终于做出来了，大家好 我是徐飞，今天我要兴高采烈地，向大家推荐这个新节目。做音乐许多年，没有其他奢望，与人对谈甚至争执后，我都会重重地自责，当时我要说这句话就好了，那一会儿我要不那么说多好呀，可是哪有后悔要买呀，所以无比羡慕便渴望，能够拥有精准提问，淡淡反驳的能力。这也是阿旁和阿瞻的辩论，我至今都百看不厌的原因，生活的迷雾与操杂，常把我们搞得晕头转向，谁不想沉浸在初秋的丑明西域中啊，谁不向往无边无际的大草原，和蓝蓝的天啊，然而谁真实的生活，不是刀光剑影呢。所以此刻阿旁的辩论节目，就太具有诱惑性了，阿旁有着聪明决定，却又令人愉悦的说服力，同时兼备最稀疏，无数优秀变首验证过的，强大教学能力，表面上叫大家辩论，底层逻辑其实也是在教我们，如何明察就好。发现自己和他人的陈词烂调，成见与避病，希望阿旁的新节目，可以帮助到更多和我一样的听众，让我们一起坚持不懈的勤于思考，通过学习来不断塑造我们的心灵，让头脑更具开放，批判和对话性，让我们一起获得更多的力量。阿旁的
+    Holaances，阿旁的 Holaances，阿旁的 Holaances，阿旁的 Holaances，阿旁的 Holaances，阿旁的 Holaances，阿族的
+    Holaances。阿族的 Holaances，阿族的 common，阿族的 common，阿族的 common，阿族的 pick，阿族的 pick，阿族的
+    pick，阿族的 pick，阿族的 pick，阿族的 pick。阿族的 pick，阿族的 pick，阿族的 pick，阿族的 pick，阿族的 pick，阿族的
+    pick，阿族的 pick，阿族的 pick，阿族的 pick，阿族的 pick，阿族的 pick。阿族的 pick，阿族的 pick。'

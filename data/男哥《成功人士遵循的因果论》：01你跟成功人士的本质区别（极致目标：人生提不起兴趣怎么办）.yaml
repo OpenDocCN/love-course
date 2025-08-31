@@ -1,0 +1,103 @@
+- answers: '-   人必须有明确目标，否则会迷失自己，感到恐慌。
+
+    -   成功人士能获得正向反馈，不断鼓励自己，与失败者有本质区别。
+
+    -   优秀学生和差学生之间的区别在于正向反馈，成功人士擅长找到正向价值。
+
+    -   第一组不知道目的地和路程，中途有人放弃，质疑为何要走这么远。
+
+    -   第二组知道目的地但不知道路程，中途也有人怀疑，但坚持继续前行。
+
+    -   第三组知道目的地和路程，虽然遇到困难，但最终成功到达目的地。
+
+    -   明确的目标对一个人的发展至关重要，因为它为行动提供方向，帮助人们集中精力和资源，避免迷失和恐慌。
+
+    -   成功人士和失败者之间的主要区别在于成功人士能够通过不断获得正向反馈来鼓励自己，并坚持不懈地朝着目标前进，而失败者则缺乏这种积极的心态和行为。
+
+    -   在心理学家的实验中，第三组人成功到达目的地是因为他们知道目的地和路程，每一公里都有里程碑作为指引，这帮助他们了解自己的进程和节奏，从而保持动力并最终成功完成旅程。
+
+    -   正向反馈对个人的成长和成功至关重要，因为它提供了行动的动力和动力，增强了自信心和动力，帮助人们克服困难和挑战，持续前进。
+
+    -   在实验中，知道目的地但不知道路程的第二组人最终能够坚持前行，是因为他们对目标有清晰的认识，尽管不知道具体路程，但仍然能够通过想象和经验来估计自己的进展，从而保持前进的动力。'
+  qas:
+  - 问题1：南哥在文本中提到的第一个问题是什么？
+  - 回答1：五年或十年后的自我形象和生活状况。
+  - 问题2：成功人士与普通人的本质区别是什么？
+  - 回答2：成功人士擅长找到自己行动中的正向反馈。
+  - 问题3：文本中提到的心理学实验的目的是什么？
+  - 回答3：测试人们在没有具体目标和概念的情况下是否能坚持前行。
+  - 问题4：南哥认为没有明确目标会导致的主要问题是什么？
+  - 回答4：会让人在工作和生活中感到迷茫和焦虑。
+  - 问题5：文本中提到的成功人士如何持续获得正向反馈？
+  - 回答5：通过在各个领域中找到自己所做事情的正向价值和鼓励。
+  questions: "-   男哥《成功人士遵循的因果论》：01你跟成功人士的本质区别\n    1.  人必须有明确目标，否则会迷失自己，感到恐慌。\n \
+    \   2.  成功人士能获得正向反馈，不断鼓励自己，与失败者有本质区别。\n    3.  优秀学生和差学生之间的区别在于正向反馈，成功人士擅长找到正向价值。\n\
+    -   心理学家实验：三组人向十公里外的村子出发\n    1.  第一组不知道目的地和路程，中途有人放弃，质疑为何要走这么远。\n    2.  第二组知道目的地但不知道路程，中途也有人怀疑，但坚持继续前行。\n\
+    \    3.  第三组知道目的地和路程，虽然遇到困难，但最终成功到达目的地。\n-   为什么明确的目标对一个人的发展如此重要？\n-   成功人士和失败者之间的主要区别是什么？\n\
+    -   在心理学家的实验中，第三组人是如何成功到达目的地的？\n-   为什么正向反馈对于个人的成长和成功至关重要？\n-   在实验中，为什么知道目的地但不知道路程的第二组人最终能够坚持前行？"
+  summary: "-   男哥《成功人士遵循的因果论》：01你跟成功人士的本质区别\n    1.  人必须有明确目标，否则会迷失自己，感到恐慌。\n   \
+    \ 2.  成功人士能获得正向反馈，不断鼓励自己，与失败者有本质区别。\n    3.  优秀学生和差学生之间的区别在于正向反馈，成功人士擅长找到正向价值。\n\
+    -   心理学家实验：三组人向十公里外的村子出发\n    1.  第一组不知道目的地和路程，中途有人放弃，质疑为何要走这么远。\n    2.  第二组知道目的地但不知道路程，中途也有人怀疑，但坚持继续前行。\n\
+    \    3.  第三组知道目的地和路程，虽然遇到困难，但最终成功到达目的地。"
+  text: '# 男哥《成功人士遵循的因果论》：01你跟成功人士的本质区别（极致目标：人生提不起兴趣怎么办）你好兄弟啊，我是南哥，欢迎来到我的课堂，这是咱们的第一节课，那课程的开始之前呢，我想问你一个问题啊，你有没有想过，五年之后十年之后，你是什么样子，年收入多少，自己是否有自己的公司，自己的夫人是什么样。自己的孩子是什么样，自己在社会当中，是一个什么样的位置，我想啊，大部分的兄弟，也许你会说，我想这些干嘛呀，这些离我很遥远啊，我把眼前过好不就可以了吗，我的朋友是怎么怎么说的，我的家人是怎么怎么说的。那我想跟你说的事情是，那些真正，有钱的人，有能力的人，他们跟你有什么区别，他们是如何一步步成功的呢，其实啊我曾经，跟兄弟们的想法是一样的，但是我经历这些事情，经历一些人，不管是这些事，还是这些人。教会了我一句话，让我明白了，其实成功，离我们并不遥远，这句话就是，人呢，一定要有自己的目标，否则，你会因为，自己的工作，生活，最终迷失了自己，反而心里呢，非常慌，我不知道大家是否认同啊。就是我们每天日复一日，重复着一样的动作，又觉得，心安理得，又觉得呢，难道永远，这辈子就是这样做吗，就是这样过吗，那么为什么，大部分人都是失败的，这里就引入了第一个，我要说的观点，成功的人，更容易去获得。他经历的任何事物，所给自己的正向反馈，这句话什么意思，也就是说，如果一个人，他做了很多事情，最终啊，都没有给自己很好的反馈，那么他就会迷茫，他就会放弃，他就会觉得，一辈子平平安安就可以，而那些成功的人。他们啊，善于，通过执行某些事情，给自己有正向反馈，我们想一想，其实，优秀的学生，和差学生之间，他们的本质区别是什么呢，就是那些差学生，他们发现不管怎么的努力，永远都是不及格，而永远不及格，就得不到社会。得不到这个环境，家长，同学的任何任何，那不断的努力之后，没有任何正向反馈，包括赞美，赞赏，奖励，他们逐渐就放弃了，所以差学生真的不差，是因为，没有人，或者他们自己，不能给自己正向反馈，而那些优秀的学生。他们为什么努力地学习，那些优秀的人，为什么持续地可以赚钱，就是因为他们擅长，在各个领域，自己所做的事情之间，能够找到正向反馈，不断地鼓励自己，所以今天第一点，你要明白，成功的人跟失败的人。它本质性的区别，你想赚第一个一百万，第一个几百万的时候，本质性区别，就是你要比别人，更能够在同样一件事情当中，找到正向价值，正向鼓励，那我们根据这个概念，再引申出我开头的那句话，我说如果你没有目标的话。人生会非常的恐慌，有的兄弟会说，南哥，我有目标啊，我目标发现我怎么做都执行不了，那么目标如何能够执行下去，你想做的事情，如何能不断地给你正向反馈呢，我们就挖掘出了今天这节课的本质。我们会发现那些优秀的人，优秀的企业家，优秀的领导，他们永远眼神里非常坚定，他们永远不迷茫，那么为什么我们这些小老百姓，总是面对生活中工作中的琐事，无法向前呢，答案就是，你所认为的目标可能是狭义的。这节课我就帮所有的兄弟去解决，你人生工作当中遇到迷茫，你的工作遇到平静，你想成为一个什么样的人，却因为迟迟没有正向反馈而放弃，我们应该如何去立竿见影地，改变我们人的人生轨迹，在我分享之前呢。我先给兄弟们讲一个小故事，心理学家曾经做过一个这样的实验，他们组织了三组人，让这三组人啊，分别向十公里以外的三个村子去出发，第一组人呢，既不知道村庄叫什么名字，也不知道路程有多远，心理学家只告诉他们。跟着向导走就行了，因为对终点，路途和一切都没有概念，所以刚走出两三里就开始有人叫苦，走到一半的时候，有人直接爆发，说我们为什么要走这么远呢，什么时候才是个头呢，'
+- answers: '-   The lack of route information in the second group leads to anxiety,
+    fatigue, and a lack of achievement because they are uncertain about the distance,
+    milestones, and progress towards their destination. Without clear markers or guidance,
+    individuals in this group rely solely on their subjective estimations, which can
+    be inaccurate and demotivating as they feel lost and uncertain about their progress.
+
+    -   Individuals in the third group benefit from having clear goals and milestones
+    by experiencing a sense of progress, achievement, and motivation throughout their
+    journey. With every milestone reached, they gain a sense of accomplishment and
+    satisfaction, which boosts morale and keeps them motivated to continue towards
+    their ultimate goal.
+
+    -   Successful individuals benefit from breaking down their goals into process
+    and outcome indicators because it allows them to track their progress, make adjustments
+    as needed, and stay focused on their objectives. By quantifying their goals into
+    measurable steps, they can effectively manage their time, resources, and efforts,
+    leading to increased efficiency and productivity in practical situations.
+
+    -   The anxiety, fatigue, and lack of achievement experienced by individuals in
+    the second group can be addressed and overcome by providing them with clear route
+    information, milestones, and progress markers. Additionally, offering support,
+    encouragement, and guidance can help alleviate their uncertainties and boost their
+    confidence in reaching their destination.
+
+    -   To help individuals in the second group gain a sense of direction and purpose
+    similar to that experienced by the third group, strategies such as setting clear
+    goals, breaking them down into manageable tasks, providing regular feedback and
+    support, and fostering a positive and motivating environment can be implemented.
+    Additionally, offering training in goal-setting, time management, and problem-solving
+    skills can empower individuals to take control of their journey and achieve their
+    desired outcomes.'
+  qas:
+  - 问题1：第一组和第二组人有什么不同？
+  - 回答1：第二组人知道村庄的名字和路程，但没有里程碑来帮助估算进程，只能依靠经验和想象。
+  - 问题2：第三组人为什么能最快到达目的地？
+  - 回答2：第三组人知道目的地和路程，每一公里都有里程碑，能实时了解行进的进程和节奏，从而保持高效的步伐。
+  - 问题3：成功的人与失败的人在目标执行上有什么不同？
+  - 回答3：成功的人懂得目标不仅是结果，还包括过程指标，能把目标分解成小的可量化动作，通过数据调整节奏，而失败的人则可能只专注于结果而忽视了过程。
+  - 问题4：如何用数据来帮助实现目标？
+  - 回答4：通过将目标拆分成可量化的小步骤，可以给自己正向反馈，帮助调整节奏，保持执行效率。
+  - 问题5：情绪在目标执行中的作用是什么？
+  - 回答5：情绪对于目标执行至关重要，成功的执行者能控制情绪，不会因为未见胜利而崩溃，而失败者可能在过程中由于情绪问题导致放弃或失败。
+  questions: '-   How does the lack of route information affect the individuals in
+    the second group, leading to anxiety, fatigue, and a lack of achievement?
+
+    -   What specific advantages do individuals in the third group experience due
+    to having clear goals and milestones?
+
+    -   In what ways do successful individuals benefit from breaking down their goals
+    into process and outcome indicators, and how does this enhance their efficiency
+    in practical situations?
+
+    -   How can the anxiety, fatigue, and lack of achievement experienced by individuals
+    in the second group be addressed and overcome?
+
+    -   What strategies can be implemented to help individuals in the second group
+    gain a sense of direction and purpose similar to that experienced by the third
+    group?'
+  summary: "-   第二组人缺乏路程信息，焦虑不安，疲惫想放弃，缺乏成就感。第三组人有明确目标和里程碑，走得更快更轻松。\n    1.  第二组人缺乏信息，焦虑疲惫，缺乏成就感。\n\
+    \    2.  第三组人有明确目标和里程碑，走得更快更轻松。\n    3.  成功人士拆分目标，有过程指标和结果指标，更高效实战。"
+  text: 第二组人呢，知道村庄的名字和路程。但是路程没有里程碑，只能凭借经验，估算着自己已经走了多远，只能凭借着自己的想象，打击血，还差多远，走到一半的时候，有人就开始非常的焦虑，这时候组里比较有经验的人说，我们大概走下来一半了，原本焦虑的人呢。又继续走，当走到全程的四分之三的时候，每个人都疲惫不堪了，并且觉得这条路没有尽头，想放弃，这时候有人说，快到了快到了，大家就振作起来，加快了步伐，那么第三组人呢，就比较幸运，他们不仅知道。他们的目的地是哪里，路程有多远，而且他们的路径上，每一公里，都有一块里程碑，随时可以告诉自己，行径的进程和节奏，于是人们边走边看里程碑，看每缩短一公里，大家便有小镇的成就感和快乐，疲惫的时候呢。就唱唱歌，这样消耗，消除疲惫，全组人啊，以最快的速度到达了目的地，我相信听完这个实验呢，我们的问题就来了，为什么第三组人，最快到达目的地呢，南哥想说的事情是，第三组人，他们不止有结果目标。他们还有过程指标，他们知道把一个结果，拆分成若干个过程，然后只需要简单的，功课这个过程，我们把一个一个过程组合起来，结果就一定能成功，我想说的第二点是，这第三组人，他们更具备的是，量化统计数据思维。我们到底走了多远，我们还差多远，每隔多远，我们应该有所什么样的调整和总结，所以今天你所得到的第一个感悟是，那些成功的人，年薪百万的人，他们跟我们的区别就在于，他们对于目标的看法和执行，更加高效和实战。他们知道目标并不能只是一个结果，或要求几个结果，目标应该有结果指标，目标也同样应该有过程指标，那些人同样的明白另外一个道理，就是任何的目标，要具备可量化数据化，这样更容易实现。这样我只需要把目标拆分成小的数量级，就可以最终达到好的效果，正因为有了这些数据数量，我可以很好的调整我的节奏，为结果负责，而大部分的人失败的人，他们最终都是追求着一个很好的结果。却因为在过程当中自己把自己玩死了，我们常说的事情是，掌控情绪得天下，情绪是什么，为什么你做股票也好，各种投资也好，人生有的时候也是一场赌注也好，你在没有胜利之前心态已经崩溃呢，因为你的目标结果很可能。它就是一个结果，你没有办法把它拆分成可执行的，若干个数量级的动作，而通过每一个动作加强自己，改善自己，通过每一个动作的数据，给自己正向反馈，我们没有这样的机会，因为我们一出发点，就是跟那些成功的人。或者即将成功的人背道而驰的，那么接下来，我将会用三种方法，彻底的解决你的苦恼，第一个办法叫做过程指标目标法，第二个方法是感官刺激法。第三个实战的方法是物理目标激励法。

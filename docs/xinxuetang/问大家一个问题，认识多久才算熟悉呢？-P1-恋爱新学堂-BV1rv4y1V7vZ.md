@@ -1,0 +1,15 @@
+# 问大家一个问题，认识多久才算熟悉呢？ - P1 - 恋爱新学堂 - BV1rv4y1V7vZ
+
+(音樂)，多年來的出將，多年來的出將，多年前的出將，多年前的出將，多年前的出將，多年前的出將，多年前的出將，(own way)，(they both gone see the date)。
+
+(and i aint got no head)，(im respected from California)，(aint made out to defend)，(im a rebel)。
+
+(need a enemy， just to be that man)，(some go out and judge)，(but girl， i'm not mad)。
+
+(im respected from California)，(aint made out to defend)，(nigga don't get greasy)。
+
+(i'm the one that gets and they cheer)，(somebody need to tell em)，(they think they do it like i did)。
+
+(i need you now， i think i'm cool)，(i don't know， i love myself)，(i can't get enough。
+
+ i think i'm cool)，by bwd6。

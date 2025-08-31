@@ -1,0 +1,15 @@
+# 当女生问你是不是喜欢我，该怎么聊 - P1 - 恋爱新学堂 - BV1Es4y1L7A9
+
+Oh boy~，♫ 逃生车 - Clueless ♫，♫ You know I know You're making up the truth ♫。
+
+♫ Why can't I go before I lose my cool ♫，♫ I love you even if it's difficult ♫。
+
+♫ Don't worry just because I need to leave ♫，♫ Don't mean I'm sick of us of you and me ♫。
+
+♫ I'm just not good showing sympathy ♫，♫ Give me a break ♫。
+
+♫ I'm not angry anymore just a little bit let down ♫。
+
+♫ I'm not angry anymore just a little upset now ♫，♫ Guess I could wanna be better than I'm ♫。
+
+♫ 逃生车 - Clueless ♫。

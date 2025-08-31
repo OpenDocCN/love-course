@@ -1,0 +1,24 @@
+- answers: '-   陳小霞创作了这首歌曲
+
+    -   谁是这首歌曲的演唱者？陳小霞
+
+    -   这首歌曲的编曲和混音由谁完成？陳小霞
+
+    -   陳小霞除了演唱外，还使用了哪些乐器？Zither Harp'
+  qas:
+  - 问题1：这段文本提到了什么歌曲？
+  - 回答1：《精神氮泵》。
+  - 问题2：谁是这首歌曲的歌手？
+  - 回答2：陳小霞。
+  - 问题3：歌曲的风格是什么？
+  - 回答3：Hardstyle。
+  - 问题4：这首歌中使用了什么乐器？
+  - 回答4：Zither Harp。
+  - 问题5：谁是这首歌的词曲作者？
+  - 回答5：陳小霞。
+  questions: ''
+  summary: "-   这首歌曲是由陈小霞创作、演唱和编曲的，展现了Zyzz的希望之光。\n    1.  陈小霞创作了歌曲的词曲和编曲。\n    2.\
+    \  歌曲展现了Zyzz的希望之光。\n    3.  歌曲中使用了Zither Harp乐器。"
+  text: '# 【精神氮泵】来自Zyzz的希望之光 - F.U.A.R.K.S.T.Y.L.E Zyzz Glimmer of hope Hardstyle
+    - P1 - FreshAndFit - BV1TM411A7wD詞曲:陳小霞，演唱:陳小霞，編曲:陳小霞，演唱:陳小霞，演唱:陳小霞，演唱:陳小霞，編曲:陳小霞，演唱:陳小霞，演唱:陳小霞，錄音:陳小霞，混音:陳小霞，Zither
+    Harp，Zither Harp。Zither Harp，Zither Harp，Zither Harp，(音樂結束)。'

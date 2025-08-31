@@ -1,0 +1,316 @@
+# RSD泰勒《蓝图解码2.0重铸蓝图》：3.如何引爆自己的个人影响力_ev
+
+🎼这里是社交光谱，我是莱特，欢迎来到泰勒20年的精华大课蓝图解码2。0。这套课是自然流的创始人泰勒的。那么想要了解这门课的更新动向，关注咱们的公众号，社交光谱。
+
+咱们的个人更新在公众号上都有提醒更多的干货内容，在我们的公众号以及我们专门的蓝图解码2。0的交流社群里。我们开始今天的内容。
+
+Hopefully now you've taken upon yourself to meet the other people here。
+
+ you're going to be doing a lot of exercises together and。Really。
+
+ it's up to you guys to make this a group experience is another big thing， okay？😡，So。
+
+We've kind of laid down the framework and the introduction of what it is that we want to accomplish here together。
+
+😡，What I want to do first is I want you to be thinking about。Compfience and。Confidence。
+
+ a lot of people will say it comes from within， and I agree with that。
+
+ I agree wholeheartedly with that。But let me ask you this。Even if you didn't have a lot of。
+
+Self love or internal value。If you just knew how to go talk to whoever you want。
+
+ would that raise your confidence？Okay， so a part of it，50% is internal change。
+
+ easily half could be even 80%。 I don't know。 But there's another aspect where I can remember when I would first be meeting people。
+
+ And I just really wouldn't know how to talk and it drove me crazy and it crushed my confidence and it made me feel worthless。
+
+ now， funny enough， I mean， if you think about it。There's a lot of people that are not very high value in general。
+
+ They don't really have a lot to offer society， but they're just really good at talking。
+
+And for that reason， they can make their life a lot better。
+
+ So I want to start to unravel that for you and show you a couple different ways that I do improvisational speaking okay so it's funny when you mentioned this too。
+
+ this idea of improvisational speaking because on my way over here。 a buddy of mine。
+
+ one of my new interns。 He actually called it Uber。 And I said listen man。
+
+ don't call the Uber for me， I want to call it。 And he said no， no， no， no。
+
+ I want to call it I was like no， no no， I wantan to call it's funny like the culture that we create within organization people want to be givers。
+
+ I thought that was very， very powerful and seeing that in him。
+
+ I felt conflicted because odd one level。I want him to have the opportunity to call that Uber so that he can give and he can benefit。
+
+ But on another level， I don't think it's appropriate for me to let him do that。 I thought。
+
+ you know that's kind of a funny thing。 I said， hey， man， look， you know， you called it yesterday。
+
+ I don't want to do that again today。 Please let me call it。
+
+ but then I try to think of something that he could maybe do to contribute right I'm like here you can carry my bag。
+
+ I feel almost ridiculous getting him to carry my bag But I don't know what else to do I'm sort of on the fence about this kind of a personal issue that I have。
+
+ I've got to figure this out some things in life we can't fully figure out。
+
+ And then I hopped into the Uber and we're driving over here。
+
+ and that was another funny thing I can't figure out because the drive here is about it's about 15 minutes。
+
+ but the walk here is about 15 minutes。 You ever have that weird conflict where the drives 15 minutes and the walk is 15 minutes。
+
+ Now my case， I don't necessarily want to come here arrive covered in sweat and kind of panting。
+
+ But on the other hand， you really should walk。 So that was sort of another question。
+
+ I thought it was funny that we had two different questions。
+
+ One question being do I let him call the Uber or not。 the other being do I walk here or not。
+
+Then as I walk in here I have even another funny question because you guys will come talk to me and part of me thinks I want to talk to you to answer your individual questions the entire time。
+
+ but then I also know that whenever I'm talking to you。
+
+ I'm taking away from me that I could be in front of the crowd so that's another question so when you look at that life has all these funny little questions and there's no right or wrong answer to it now what I just said about those three questions。
+
+ I just completely made up out of nowhere。😡，That's not cans， that's not me preparing it。
+
+ that's not something I've said before， did it look like that could be a polished bit from a seminar when you heard it？
+
+😡，Okay now I could take it to other levels because I could be saying what I'm talking about。
+
+ I could say， then he said， you know what， I've got to call the Uber and I said no。
+
+ you can carry the bag and then I handed in the bag， I picked up the bag， pulled it up。
+
+ I could feel my shoulder muscle contracting， I could feel my forearm muscle contracting。
+
+ I could feel my arm extending，😡，And I could extend。My heart。Ever so slightly with the bag。
+
+Holding it， moving the bag as I watch the bag。Millilimeter。By millimeter。
+
+ moving towards my intern as his hand returned to mine， picking up his large manly frame。
+
+E moving his hands towards， and me feeling the weight begin to shift。From my hand。
+
+ as my wrist slowly moves down as each finger。The pinky finger。Known for the pimpering。
+
+The ring finger known for the marriage ring， the middle finger known。
+
+Both in pimping and in marriage for certain purposes， the pointing finger。
+
+ which can be used to make an accusation or to simply direct someone of what to do or to wag in a moralistic way。
+
+ N， yeah， yeah， you naughty little person。 yeah。And handing it to him and he picked it up and he grabbed the bag and gallantly threw the bag on his back。
+
+And said，R。I've got this bag， Owen， okay， now look how much I can extend even something like me handing a bag。
+
+ How would most people say that。First of all， they're here you could't even hear them probably。
+
+ theyd have no brightness in the eye we'll get to that later。And then they'd say， head in the bank。
+
+I go， okay， draw it out， they go。He the guy of the back， yeah， but draw it out a little bit。
+
+ you know， add something to it。Move my arm out， he took the bag Well， how did you feel about it。
+
+ you know， you feel you know， did you feel the inner conflict between carrying yourself or taking away the opportunity from him？
+
+改这边啊啊。RightYou see what happens right so that's why people struggle with speaking。
+
+ So say that you say， you know you're gonna go meet someone and talk to them， they're like， hey。
+
+ and the tricky part is they kind of like the level they're operating on is one of need。
+
+ say they're meeting someone they're attracted to， they probably just want to hook up with them。
+
+ That's really what they want like I just want to hook up。😡，Well， yeah。
+
+ but you've got to bring more to the table。😡，You know， show your true self。I kind of just like。
+
+My true self just kind of like。She kind of like want to hook up， you know， right。
+
+ like how do I do that right you know， so they're not really bringing a lot of energy。
+
+ And they think people should just meet their needs。 They just want their needs met。YouI've got kids。
+
+ I remember the other day my kid， he wants to come up to my office where there's computers so that he can watch computers because his mom won't let him watch very much computer。
+
+ so that's like his main thing he wants。You know， he's like， daddy， when are we going。
+
+ When are we going， He's 7 years old。 I saidDylan。Why don't you ask me how I'm doing or say to me。
+
+ you know if it's taking me an extra minute， why don't you say， hey， dad。
+
+ if it's taking you an extra minute， is there anything I can do to help And you can see that literally flustered him。
+
+ It really， really flustered him because he just wants to go play the computer now he's seven years old right Well。
+
+ unfortunately， for most of us， we don't grow out of that。
+
+ We're still operating at that paradigm because we're in coping now we'll hide it really。
+
+ we're just like that like we just want the thing we want。
+
+ but we'll kind of like pretend like we'll pretend that we're not like that to be civil。
+
+ but we're really like that。 Unfortunately， that's an okay mindset for a child。 He already。
+
+ by the way， is like really growing up quick。 He's helping his brothers and he's totally on another level。
+
+ but I still want to keep moving moving that forward for him。
+
+ I want him to operate on a totally different level and to be thriving So I don't care what he doesn in life。
+
+ but I want him to thrive at whatever he does So。😡，If we think about that for a minute。
+
+ how can we begin to learn how to stretch out the way that we talk， How can we offer more Well。
+
+ the first distinction I'm going make with you as far as being able to talk improvisationally is you need to understand that people are more hooked on the tone and the tone and the certainty and the cadence and the projection and the energy than the actual content itself。
+
+ that's your first understanding that you need to get。
+
+ So once you begin to understand that and you realize that there's all these nonverbal communications that are going on。
+
+ you realize the actual words are relatively unimportant you should be able to talk about a simple bottle of water and like do you guys you don't want to challenge me on this because I will。
+
+😡，Do it because I have。If you tell me， talk for one hour in a compelling way about this bottle of water。
+
+100% I will crush it。 I did in Seattle。 Someone challenged me。 I talk about Bkenstocks for an hour。
+
+ You do not want to challenge me on this。 Okay I will literally show you so many I will sing about it。
+
+ I will whisper about it。 I will cry about the Bkenstock or the water。 I will make analogies。
+
+ I'll talk about where it's from the cultural implications。 The styles of it。
+
+ the different mindsets of people that might want to wear it。 I'll talk about it quickly and Socca。
+
+ I'll slow down。 I'll be emotional， I'll be heart wrenching， I'll be funny。 I'll crack jokes。
+
+ I'll go in every single last possibility that you can over that one bottle of water。 Meanwhile。
+
+ when I teach dating content。 guys will say， what do I say because they're in that mode Carter just want to hook up。
+
+ Just tell me a thing to say so I can just make the thing happen。
+
+ They're not wanting to bring a lot of value to the situation。
+
+ What I'm trying to show you how to do is think about different elements of your personality that are in there and then adapt that to the bottle of water or adapt that。
+
+😡，The Bkin stock or whatever it is。 so that you can talk unlimited。
+
+ Okay Better yet is when you can just vibe and free associateiate and come up with all sorts of random stuff and just create an energy。
+
+ by the way， vibing is such a powerful thing because it's really a pure form of energy creation。
+
+ by the way， I so know I'm gonna to fall at least one time so bad this weekend。 So you warneds。
+
+ I don't mind falling from this hyp。 I literally think we need to put like kids math down you're like I'm looking at this like all wait to like my passion point。
+
+ I'm like your iss gonna follow。 Let's see how we do But anyway。
+
+ so so you get the main idea here is that you want to actually have delved into your personality and think about what's there。
+
+ And then from there， you want to learn how to give more on any topic and create energy It's really about creating energy together。
+
+ Okay like you should be able to talk about your fingernail and look at your fingernail and see it and just draw that out into a 30 minute conversation just your fingernail。
+
+ Now that sounds crazy。 Why is that crazy， Think of all the things that you can be covering on that。
+
+You could be covering how it's like a little piece of bone growing through your finger。
+
+ you could talk about your fingernails compared to other animal's fingernails and how this is like a pretty cool fingernail and how it would like stop it from getting like say you get hit in your finger。
+
+ it's meant to block it you could talk about how it evolution we don't go beyond what we need so it protects us from regular daytoday life but in a certain incident it might not be enough protection and then it would crack even more how it would grow back。
+
+ how it could be split the little blue that it gets under it when it does split。
+
+ what it could look like when you manicure it， should you manicure it， should you not manicure it。
+
+ say that you're a guy is that a cool thing to do is it kind of like is it too metro for you。
+
+ what are the pros and cons of that， what do people think of grooming。
+
+ what do they think of ruggedness get into that whole subject you could talk about scratching someone's back during intimacy and how fingernails could play in there you could talk about incidents where you didn't get your fingernails and maybe you took a lot of supplements that month like in my case and then your fingernails grew abnormally quickly because you're getting healthier they grew abnormally quickly then you're doing you' meeting people you're like my fingers are really long。
+
+ you like scratch。you know you're doing whatever you're doing。
+
+ you scratch whatever you scratch that hasn't happened yet。
+
+ but you' never know right you could talk about when you clip it， when you clip it a certain way。
+
+ maybe it gets a bit sharp， how you have to kind of buffer it down。
+
+ you could talk about how certain people take great care of their fingernails。
+
+ Some people notices some people don't you could talk about how you feel about just having like just general functions in life。
+
+ different aspects of your body， how that correlates to the strange of fingernails。
+
+ the different philosophy of human existence， we have hair， we have nails， we have eyebrows。
+
+ we have eyes， we have these little bone things growing out， there's like a color to it。
+
+ what is the color is it translucent is it white， What is the little line over the fingernail。
+
+ when you touch it， how do you feel I mean you could go on and on and on。
+
+ everything I just cover there， you can turn it into two hours you can absolutely do it now I know the feeling of that blank page that dread of the blank page Let me tell you how I know I think we could all relate with this。
+
+When I was learning polynomial factoring or trinomial factoring in math， when I'm in high school。
+
+ I'm doing it now， when I was learning that in high school， but this one is a real one。
+
+ but it sounds like one of my improvising it's all kind of both But when I would do that。
+
+ I remember I could watch the teacher up on the chalkboard breaking down trinomial factoring。
+
+ I could do it I could see and I could understand it when they're doing it just like how you are able to understand now what I'm talking about with the fingernail。
+
+ you completely get it， But then when I tell you to do it， you're like for most of us。
+
+ it's gonna be like， why can't I come up with all that stuff so easily the way that Owen does look I get it。
+
+ I'm a student most the time myself， I'll go to improv class and see the improv teacher like coming up with jokes out of nowhere I'm like it's so cool that that improv teacher dedicated their life to this。
+
+ and it shows what you could get to it， if you kind put the time in to do it right part of why I even do these exercises because I enjoy teaching them so that I can get better access。
+
+我们可以看到啊，凯勒说了啊，这个语言交流的真正的奥秘呢在于传递能量和情绪。而不仅仅是内容的本身，我们一个人的语调、节奏、声音还有氛围，往往比具体说了什么，更容易吸引听众。
+
+来影响别人要成为有感染力的演讲者或者社交达人呢，我们关键是要学会将自己的情绪和内容分离，灵活运用语调和情绪，为看似平常的一些内容呢，注入令人难忘的力量，这需要我们克服内心的障碍，创作和社交。
+
+都要遵循蒲公英法则。也就是说，把种子广泛的散播出去，总会有一些在某个地方生根开花。一个人呢认识的人越多，作品产出的阅多，就会收到这种理想的反馈，源源不断的展现自我是吸引至同道合者的一种最佳方式。
+
+比如说在联网时代持续高频的输出优质的内容。比如每天一个八分水准的这个视频，远比精雕细琢一个完美的作品呢更能积累。影响力，保持创作的势头本身呢就会提升一个人的水准。
+
+那么关于如何能够持续的保持这种高质量的输出能力呢？在这里我们未来会有一个训练营叫表达者。这门课是我们过年辅导经验的提炼，从文案对每商的三大能力，改变世界对你的方式，这就是表达者训练营。
+
+能够让你传达到的水平。接下来我们来讲一讲自信社交能力和自信表达这之间的一个关系啊，自信有两个来源。第一个来源是内在价值和实际我们的一个能力，内在价值虽然很重要，但掌握与人交流的技巧。
+
+同样可以提升一个人的自信力。虽然很多人没有太高的一个社会地位，但凭借出色的这种交际能力啊，依然可以让自己的生活啊变得更好。你想象一下啊，如果你不知道如何与人搭讪和交流，那你的自信必然会受到打击。相反。
+
+如果你能够正常的和人搭讪。哪怕。你的一些外子的价值并不怎么高，但是也能通过社交显著的改善自己的一个生活的质量。也就是说你生活中会不缺资源。还有就我们生活中啊充满了各种有趣的小问题和矛盾。
+
+其实他并没有一种标准答案，关键是我们要学会性应对，而不是事事追求完美。那我们可以看出来啊，泰勒在讲即心演讲的时候呢，他更多的加入了一些细节和感受，这种表达，更加丰富生动。
+
+我们大多数人呢只会简单的去陈述事实。你没有发现很多人的这种表达是缺乏吸引力的。因为他们在表达的时候呢，往往缺乏这种细节和情感，眼睛里也没有什么神采。遗憾的是在社交中啊。
+
+很多人的行为呢是基于自己内心的一种强大的需求，而并非自己真实的一个自我。他们可能啊如果说在跟一个女生交往的时候，只是想跟对方发生关系，来满足自己的欲望，而没有实质想跟他产生。太多的一个链接。
+
+就像那些急于求成的搭讪者一样，他们满脑子只想着自己的一个需求，而忘沟通的真谛，坦诚的分享自己啊，用心的去了解对方啊，他们这种这种急于求成的搭讪的交流，往往是肤浅和乏味的，真正有魅力的人。
+
+是那些能够真实展示自己，展示自己丰富内心世界的人内容本身其实并不是那么重要，就是关键你的一种传递的要节奏、能量和情绪。人们更容易被这些非语言因素所吸引和感染。那我们视频也提到了用这个水平啊。
+
+凉鞋的这些例子啊，生动形象的说明了这一点，对不对？即使说对着自己的指甲，这种很无聊的话题，也大有文章可做。比如说指甲的生理结构到进化意义到如何护理到男性修指甲的看法。那只要我们去发散思维，就是联想丰富。
+
+那就能侃侃而谈，就不怕没有话题讲。🎼关键就是要发挥创造力，调动情绪和传递能量，而不是拘泥于这个话题本身。那么在咱们的下面一节课里呢，泰勒会讲到一个比较核心的一个部分。
+
+就是如何通过调节你的能力去夺取你周围人的注意力。并且对你的一个情绪和内容的分离方法呢做了一个专项的训练。本集那个内容就到这里，想要及时的了解最新的一个更新信息呢？可以关注我们的公众号社交光谱。
+
+或者在咱们的研讨会群里面呢，都会有第一时间的通知和提醒，以及我还会在研讨会群里面跟大家做直播分享。好，我是莱特。
+

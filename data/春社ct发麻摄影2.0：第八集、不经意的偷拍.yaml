@@ -1,0 +1,39 @@
+- answers: '-   在《春社ct发麻摄影2.0》的第八集中，描述了对伴侣的感激和依赖，表现在歌词中是“baby you so good to me”以及“you
+    know how to see through me”等句子。
+
+    -   在歌词中，对伴侣情绪化时的不公平行为是通过“i put it all on you，i know it isn''t fair to do”这样的表达来体现的。
+
+    -   伴侣表现出的耐心和理解在歌词中体现为“even when i''m moody，you know how to see through me”这句话。
+
+    -   这首歌词中对伴侣的抱怨通过“yeah sometimes i''m just starting fights，and don''t even have
+    a reason why”这样的句子来呈现。
+
+    -   在这段歌词中，作者对伴侣的感激和抱怨之间展现了一种平衡，既表达了对伴侣的感激和依赖，又承认了自己情绪化时的不公平行为和对伴侣的抱怨。'
+  qas:
+  - 问题1：文本的主题是什么？
+  - 回答1：文本的主题是关于摄影项目“春社ct发麻摄影2.0”的第八集和与之相关的内容。
+  - 问题2：文本中提到的“baby you so good to me”表达了什么情感？
+  - 回答2：“baby you so good to me”表达了对某人的感激和赞美，即使在自己情绪不稳定时仍对其有好感。
+  - 问题3：作者在文本中提到自己有哪些情绪？
+  - 回答3：作者提到自己有情绪不稳定、常常挑起争吵而无理由的时候。
+  - 问题4：文本中作者对被描述的对象的评价是什么？
+  - 回答4：作者称赞对象在作者情绪不稳定时能保持冷静，并且能看透作者。
+  - 问题5：文本的整体情感色彩是什么？
+  - 回答5：文本的整体情感色彩是感激与赞美，同时也包含作者对自己情绪不稳定和挑衅行为的反思。
+  questions: '-   如何在《春社ct发麻摄影2.0》的第八集中描述了对伴侣的感激和依赖？
+
+    -   在歌词中是如何表达对伴侣情绪化时的不公平行为？
+
+    -   伴侣表现出的耐心和理解如何在歌词中体现？
+
+    -   这首歌词中对伴侣的抱怨是如何呈现的？
+
+    -   在这段歌词中，作者对伴侣的感激和抱怨之间有何种平衡？'
+  summary: "-   春社ct发麻摄影2.0：第八集、描述了一段关于对伴侣的感激和抱怨的歌词。\n    1.  描述了对伴侣的感激和依赖。\n    2.\
+    \  表达了自己情绪化时对伴侣的不公平行为。\n    3.  伴侣表现出的耐心和理解。"
+  text: '# 春社ct发麻摄影2.0：第八集、不经意的偷拍baby you so good to me，even when i even when i''m
+    moody，even when i even when i''m moody。i put it all on you，i know it isn''t fair
+    to do，yeah sometimes i''m just starting fights。and don''t even have a reason why，i
+    put it all on you，i know it isn''t fair to do。don''t know how you haven''t run
+    on，yeah i said you always stay calm，even when i''m moody。you know how to see through
+    me，you so good to me。'

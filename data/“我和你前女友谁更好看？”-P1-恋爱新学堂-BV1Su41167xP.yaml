@@ -1,0 +1,25 @@
+- answers: ''
+  qas:
+  - 问题1：这篇文本的主题是什么？
+  - 回答1：“我和你前女友谁更好看？”
+  - 问题2：文本的作者是谁？
+  - 回答2：作者是P1。
+  - 问题3：文本所属的出版物是什么？
+  - 回答3：出版物是《恋爱新学堂》。
+  - 问题4：文本的发布平台或频道是什么？
+  - 回答4：发布平台是BV1Su41167xP。
+  - 问题5：文本中包含的其他信息是什么？
+  - 回答5：文本中含有音乐相关的标记。
+  questions: '-   What is the title of the show featured in the segment?
+
+    -   Which program does the segment "Who looks better, me or your ex?" come from?
+
+    -   What does the segment from Love Academy contain?
+
+    -   How many music clips are included in the segment?
+
+    -   What is the theme of the segment "Who looks better, me or your ex?" from Love
+    Academy?'
+  summary: "-   “我和你前女友谁更好看？”是一期来自恋爱新学堂的节目。节目内容包括多个音乐片段。 \n    1.  节目名称为“我和你前女友谁更好看？”\n\
+    \    2.  节目来自恋爱新学堂\n    3.  节目包含多个音乐片段"
+  text: '# “我和你前女友谁更好看？” - P1 - 恋爱新学堂 - BV1Su41167xP(音樂)，(音樂)，(音樂)，(音樂)，(音樂)，(音樂)，(音樂)。'

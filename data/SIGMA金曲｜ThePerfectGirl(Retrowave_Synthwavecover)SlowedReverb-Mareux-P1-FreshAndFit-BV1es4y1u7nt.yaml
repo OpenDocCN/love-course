@@ -1,0 +1,34 @@
+- answers: '-   Retrowave_Synthwave版本由Mareux演唱
+
+    -   歌曲名称是 "The Perfect Girl"
+
+    -   使用了Zither Harp乐器
+
+    -   歌曲的作者是李宗盛
+
+    -   不允许翻唱或使用此歌曲'
+  qas:
+  - 问题1：这首歌的名称是什么？
+  - 回答1：The Perfect Girl (Retrowave_Synthwave cover)
+  - 问题2：歌曲的作者是谁？
+  - 回答2：李宗盛
+  - 问题3：这首歌的风格是什么？
+  - 回答3：Retrowave_Synthwave
+  - 问题4：有哪些乐器在这首歌中使用？
+  - 回答4：Zither Harp
+  - 问题5：关于使用权限有什么限制？
+  - 回答5：未经许可，不得翻唱或使用
+  questions: '-   由谁演唱的Retrowave_Synthwave版本？
+
+    -   歌曲名称是什么？
+
+    -   有哪些乐器被使用？
+
+    -   歌曲的作者是谁？
+
+    -   是否允许翻唱或使用此歌曲？'
+  summary: "-   歌曲为《The Perfect Girl》的Retrowave_Synthwave版本，由Mareux演唱，慢速混响处理。\n  \
+    \  1.  歌曲由李宗盛作词、作曲、编曲，并演唱。\n    2.  使用了Zither Harp乐器。\n    3.  未经许可，禁止翻唱或使用。"
+  text: '# SIGMA金曲 ｜ The Perfect Girl (Retrowave_Synthwave cover) Slowed Reverb -
+    Mareux - P1 - FreshAndFit - BV1es4y1u7nt詞:李宗盛 曲:李宗盛，編曲:李宗盛，演唱:李宗盛，Zither Harp，Zither
+    Harp，Zither Harp，Zither Harp，Zither Harp，未经许可。不得翻唱或使用。'

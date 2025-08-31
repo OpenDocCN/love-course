@@ -1,0 +1,105 @@
+- answers: '-   这段文字是一首歌曲的歌词。
+
+    -   主人公在歌词中表达了对失去爱情的痛苦，其中包括内心的焦虑、失落、无助以及对前途的担忧等。
+
+    -   主人公试图寻找自己的身份认同，但遇到了失败、迷茫和不确定等困难。
+
+    -   最终，主人公意识到时间能够决定一切，也可以让我们认清自己，最终得出了“我们不能更好，我们可以最后一次去做”这样的结论。
+
+    -   这段文字主题是失去与寻找。它表达了失去爱情和身份认同的痛苦，以及在迷茫时试图找到自己的过程。'
+  qas:
+  - 问题1：文本的主题是什么？
+  - 回答1：主题似乎是关于个人感情经历和情感挣扎。
+  - 问题2：文本中是否有重复出现的关键词或短语？
+  - 回答2：是的，有一些关键词和短语多次出现，比如“lose in my life”，“time will tell”，“we can't be better”等。
+  - 问题3：文本的情感色彩如何描述？
+  - 回答3：情感色彩显得复杂，涉及到失落、挣扎、希望和变化。
+  - 问题4：文本中是否有具体的事件或背景描述？
+  - 回答4：文本中没有具体的事件或背景描述，主要集中在个人情感和内心体验上。
+  - 问题5：这段文本的作者可能是在表达什么样的情绪或态度？
+  - 回答5：作者可能在表达对于个人生活中的困惑和挑战，以及对未来的期待和改变的渴望。
+  questions: '-   这段文字描述了什么？
+
+    -   主人公对失去爱情的痛苦体现在哪些方面？
+
+    -   主人公试图寻找什么，但遇到了什么困难？
+
+    -   最终，主人公得出了什么结论？
+
+    -   这段文字的主题是什么？'
+  summary: "-   这段文字描述了一个人在失去爱情中的痛苦和迷茫。\n    1.  主人公感到无法忘记对方，但又不知道如何继续生活。\n    2.\
+    \  他试图找到自己的位置和身份，但感到困惑和迷失。\n    3.  最终，他意识到时间会揭示一切，并且他们无法再在一起。"
+  text: '# 《顶级操作4.0》之女生问你多大～ - P1 - 撩妹成成 - BV1jT411E7y4I''m a little used to calling
+    out such a name，I won''t see you tonight so I can keep from going insane。But I
+    don''t know enough，I get some kind of lazy day。I''ve been fagging and screwing
+    to find my title name。I''ll be stooped and moaned but I''ll leave us both the
+    same，But I don''t know enough。I get some kind of lazy day，Cause it''s hard for
+    me to lose in my life，I found only time will tell。And I will figure out that we
+    can''t be better，We can do it one last time yeah。And it''s hard for me to lose
+    in my life，I found outside your skin right near the fire。And we can''t be better，We
+    can change and be alright，I''m a little used to wandering outside the rain。You
+    can leave me tomorrow if it suits you just the same，But I don''t know enough。I
+    need sun when it leaves the day，Cause it''s hard for me to lose in my life。I found
+    only time will tell，And I will figure out that we can''t be better。We can do it
+    one last time yeah，And it''s hard for me to lose in my life。I found outside your
+    skin right near the fire，And we can''t be better，We can change and be alright。We
+    can change and be alright，Zither Harp，Cause it''s hard for me to lose in my life。I
+    found only time will tell，And I will figure out that we can''t be better。We can
+    do it one last time yeah，And it''s hard for me to lose in my life。I found outside
+    your skin right near the fire，And we can''t be better，We can change and be alright。Cause
+    it''s hard for me to lose in my life，I found only time will tell。'
+- answers: '-   {问题1}
+
+    -   {问题2}
+
+    -   ...
+
+    -   {回答1}
+
+    -   {回答2}
+
+    -   ...
+
+    -   这首歌的主题是什么？
+
+    -   这首歌表达了怎样的情感？
+
+    -   作者在歌词中表达了什么样的态度？
+
+    -   歌词中的"最后一次尝试"指的是什么？
+
+    -   作者对对方的真实面貌有怎样的发现？
+
+    -   这首歌的主题是关于一段爱情的纠葛和挣扎。
+
+    -   这首歌表达了失落、困惑、无助和对失去的担忧等复杂的情感。
+
+    -   作者在歌词中表达了无奈和挣扎的态度。尽管对关系前景感到悲观和绝望,但仍试图寻求转机,渴望最后一次尝试修复这段关系。
+
+    -   歌词中的"最后一次尝试"指的是作者想最后再次尝试挽回这段关系,但内心对此感到悲观和绝望。
+
+    -   作者对对方的真实面貌有一种发现和认识,即原本以为能一直在一起的对方可能最终还是会离开自己。'
+  qas:
+  - 问题1：What is the speaker trying to figure out?
+  - 回答1：The speaker is trying to figure out that they cannot improve their situation.
+  - 问题2：What does the speaker want to do one last time?
+  - 回答2：The speaker wants to do something one last time.
+  - 问题3：What does the speaker find hard to accept in their life?
+  - 回答3：The speaker finds it hard to lose in their life.
+  - 问题4：Where does the speaker find something near?
+  - 回答4：The speaker finds something near the fire, outside someone's skin.
+  - 问题5：Can the speaker and someone else improve their situation?
+  - 回答5：No, they cannot be better.
+  questions: '-   这首歌的主题是什么？
+
+    -   这首歌表达了怎样的情感？
+
+    -   作者在歌词中表达了什么样的态度？
+
+    -   歌词中的"最后一次尝试"指的是什么？
+
+    -   作者对对方的真实面貌有怎样的发现？'
+  summary: '-   歌词表达了无法改善关系的决心，希望最后一次尝试。同时，面对失败让人痛苦，但也发现了对方的真实面貌。'
+  text: And I will figure out that we can't be better，We can do it one last time yeah。And
+    it's hard for me to lose in my life，I found outside your skin right near the fire。And
+    we can't be better。

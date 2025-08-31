@@ -1,0 +1,9 @@
+# 没有女生能拒绝一个幽默的男生 - P1 - 恋爱大师兄-宇哥 - BV1FG411u7Xh
+
+《It's Going Down》，《It's Going Down》，tomorrow，you better move，you better dance，let's make it right。
+
+you won't remember，I'll be the one，you won't forget，Oh oh oh oh，tomorrow，tomorrow。
+
+let's make it right，tomorrow，tomorrow，let's make it right，喜歡你，那雙眼瞳人，笑聲更迷人，原在我，喜歡你，那可愛面容，還手算夢魂，轉轉天。
+
+你跟我好。
