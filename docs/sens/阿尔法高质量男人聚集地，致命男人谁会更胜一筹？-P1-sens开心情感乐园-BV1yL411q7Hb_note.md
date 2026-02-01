@@ -1,0 +1,61 @@
+# 情感分析入门教程 01：从歌词中识别情感基调 🎵
+
+在本节课中，我们将学习如何从一段文本（例如歌词）中识别和分析其蕴含的情感基调。我们将通过分析一段英文歌词，学习情感分析的基本概念和简单方法。
+
+## 概述
+
+情感分析是自然语言处理的一个分支，旨在识别文本中表达的情感、态度或情绪。本节课我们将以一段歌词为例，学习如何通过关键词和重复句式来判断其整体情感色彩。
+
+上一节我们介绍了课程目标，本节中我们来看看具体的分析步骤。
+
+## 歌词文本分析
+
+以下是待分析的歌词原文：
+
+> 手套勾一下，丸子，我可以停止吗？，请不要问我，我可以停止这种感觉，我从爱你开始，我可以停止，你和我都能够分配，没有谎言，我想要你更多，宝贝，为什么爱要等，当你碰到我，就太晚了，我可以停止吗？。
+>
+> 我可以停止这种感觉，请不要问我，我可以停止这种感觉，我从爱你开始，我可以停止，我可以停止，我可以停止，我可以停止，你和我都能够分配，没有谎言，我想要你更多，宝贝，为什么爱要等，当你碰到我。
+>
+> Anything for good，Come here and love me，You know you should，I can‘t stop，I can’t stop this feeling。
+>
+> I just can‘t quit that，Please don’t ask me to，I can‘t stop this feeling。
+>
+> Sharin‘ it from love and youth，I can’t stop，Stop，Stop，Come the mean and the nice，You will see。
+>
+> My love will do you right，It just might be，Start up somethin‘ fine，Lovin’ together，Baby be mine。
+>
+> I can‘t stop this feeling，I get from lovin’ you，Just can‘t quit it，Please don’t ask me to。
+>
+> I can‘t stop this feeling，I get from lovin’ you，I can’t stop，I can‘t stop，I can’t stop this feeling。
+>
+> Just can‘t quit that，Please don’t ask me to，I can‘t stop this feeling，I get from lovin’ you。
+>
+> I can‘t stop，I can’t stop this feeling，I get from lovin‘ you，Just can’t quit that。
+>
+> Please don‘t ask me to，I can’t stop this feeling，I get from lovin‘ you，I can’t stop，I can‘t stop。
+>
+> I can’t stop this feeling，Just can‘t quit that，Please don’t ask me to，I can‘t stop，I can’t stop。
+>
+> I get from lovin‘ you，I can’t stop。
+
+## 核心情感识别步骤
+
+以下是进行基础情感识别的几个关键步骤：
+
+**第一步：提取高频词汇和短语**
+通过观察，歌词中反复出现“I can‘t stop this feeling”、“lovin’ you”、“can‘t quit”等短语。在情感分析中，高频词往往是情感指向的关键。
+
+**第二步：分析句式与语气**
+歌词中大量使用“I can’t stop...”的否定句式与“Please don‘t ask me to”的祈使句，表达了**一种无法控制、无法停止的强烈情感状态**。我们可以用简单的逻辑来描述这种矛盾：`渴望停止(Feeling) && 无法停止(Action) = 强烈的情感冲突`。
+
+**第三步：判断情感极性**
+根据词汇和句式，我们可以判断其情感基调。歌词中“love”、“fine”、“mine”等词带有积极色彩，但“can‘t stop”、“can’t quit”、“too late”又表达了挣扎。整体上，这是一种**强烈的、积极的、但伴随矛盾和渴望的情感**，偏向于“激情”或“热恋”的范畴。
+
+**第四步：结合上下文理解**
+歌词结尾提到“这是一个关于人类高质量男性，求人类高质量女性的一个视频的介绍”，这为歌词提供了语境。歌词中的情感挣扎可以理解为求爱过程中内心激烈活动的艺术化表达。
+
+## 总结
+
+本节课中我们一起学习了情感分析的基础方法。我们通过分析一段歌词，实践了如何从**高频词**、**句式语气**和**情感极性**三个角度，识别文本中蕴含的“无法抑制的爱恋”这一核心情感基调。
+
+记住，基础的情感分析就像解构一个公式：`文本特征（词汇+句式） -> 情感状态`。在后续课程中，我们将学习更复杂的情感分类模型。
