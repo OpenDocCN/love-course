@@ -1,5 +1,5 @@
 +   [RSD](README.md)
-+   [课程03：高级皮卡游戏大师（3/3） 🧠💡](03RSD卢克-社交圈蓝图RSDLuke-SocialCircleBlueprint：9.高级皮卡游戏：1.Advancedpickupmastermind-3of3_note.md)
++   [课程03：高级皮卡游戏大师（3/3） 🧠💡](03RSD卢克-社交圈蓝图RSDLuke-SocialCircleBlueprint：9.高级皮卡游.md)
 +   [课程03：RSD卢克-社交圈蓝图 🧠 - 克服对错失机会的恐惧（FOMO）](03RSD卢克-社交圈蓝图RS：1.克服恐惧：应对错过机会的恐惧1_note.md)
 +   [课程03：RSD卢克-社交圈蓝图 🧠💫](03RSD卢克-社交圈蓝图RS：1.克服恐惧：应对错过机会的恐惧2_note.md)
 +   [课程03：RSD卢克-社交圈蓝图 🎯 1. 克服恐惧：应对错过机会的恐惧](03RSD卢克-社交圈蓝图RS：1.克服恐惧：应对错过机会的恐惧3_note.md)
