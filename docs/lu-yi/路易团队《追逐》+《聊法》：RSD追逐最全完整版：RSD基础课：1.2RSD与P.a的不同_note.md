@@ -1,4 +1,4 @@
-# 课程1.2：RSD与PUA的不同 🎯
+# 路易团队《追逐》+《聊法》：RSD追逐最全完整版：RSD基础课：1.2RSD与P.a的不同_note
 
 在本节课中，我们将要学习RSD（Real Social Dynamics）与传统PUA（Pick-up Artist，或称“把妹达人”）方法的核心区别。我们将通过具体的概念对比，理解为何RSD强调内在特质的培养，而非单纯依赖技巧和话术。
 

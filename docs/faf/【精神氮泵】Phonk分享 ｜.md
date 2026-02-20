@@ -1,4 +1,4 @@
-# 【精神氮泵】Phonk分享 ｜ Wake up Bruh [slowed+reverb] tiktok version - P1 - FreshAndFit - BV1ys4y1M7Qu
+# 【精神氮泵】Phonk分享 ｜
 
 是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是，是。
 

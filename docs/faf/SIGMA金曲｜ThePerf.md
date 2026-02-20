@@ -1,4 +1,4 @@
-# 课程名称：SIGMA金曲解析 ｜ 第1课：The Perfect Girl (Retrowave_Synthwave Cover) 制作详解 🎵
+# SIGMA金曲｜ThePerf
 
 在本节课中，我们将要学习如何解析一首名为“The Perfect Girl”的Retrowave/Synthwave风格改编歌曲。这首歌曲采用了慢速混响处理，由Mareux制作，是FreshAndFit系列的第一部分。我们将逐一拆解其制作信息，并理解相关的版权声明。
 

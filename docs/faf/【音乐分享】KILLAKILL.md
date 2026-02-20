@@ -1,4 +1,4 @@
-# 课程 P1：Phonk音乐入门与《KILLA KILLA!》解析 🎵
+# 【音乐分享】KILLAKILL
 
 在本节课中，我们将学习一种名为Phonk的音乐风格，并解析一首具体的作品《KILLA KILLA! - RXRETXPEVISIXN》。我们将了解Phonk的核心特征、历史背景，并学习如何欣赏这类音乐。
 

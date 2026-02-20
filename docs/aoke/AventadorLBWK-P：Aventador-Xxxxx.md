@@ -1,4 +1,4 @@
-# 兰博基尼Aventador LBWK改装教程 - P1：Aventador 🏎️💥
+# AventadorLBWK-P：Aventador-Xxxxx
 
 在本节课中，我们将学习如何将一架受损的飞机零件，改装成一辆名为“蓝龙”的兰博基尼Aventador跑车。整个过程涉及创意构思、零件利用与最终命名。
 

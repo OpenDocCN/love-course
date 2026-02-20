@@ -1,4 +1,4 @@
-# 舞蹈教程：Bottom G超阳刚热舞 ｜ Tourner dans le vide - P1 🕺💥
+# BottomG超阳刚热舞｜To
 
 在本教程中，我们将学习“Bottom G超阳刚热舞”的第一部分。这段舞蹈源自Brian Michael Hinds的歌曲《Tourner dans le vide》，其风格充满力量与动感。我们将分解动作，并逐步讲解每个细节，确保初学者也能轻松跟上。
 

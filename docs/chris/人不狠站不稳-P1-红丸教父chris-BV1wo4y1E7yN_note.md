@@ -1,4 +1,4 @@
-# 人不狠 站不稳 - P1 - 红丸教父chris - BV1wo4y1E7yN
+# 人不狠站不稳-P1-红丸教父chris-BV1wo4y1E7yN_note
 
 ## 🎯 课程概述：理解“红丸”与自我提升
 

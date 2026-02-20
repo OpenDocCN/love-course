@@ -1,4 +1,4 @@
-# 太阳后裔missionpart2 - P1 - 星脱单 - BV1Dd4y1b7zS 教程
+# 太阳后裔missionpart2-P1-星脱单-BV1Dd4y1b7zS_note
 
 ## 概述
 在本节课中，我们将学习如何将歌词内容翻译成中文，并整理成一篇教程。
