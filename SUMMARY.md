@@ -1,4 +1,5 @@
 +   [2024](docs/2024/README.md)
++   [2025](docs/2025/README.md)
 +   [艾克](docs/ai-ke/README.md)
 +   [爱情光谱](docs/ai-qing-guang-pu/README.md)
 +   [艾瑞克](docs/ai-rui-ke/README.md)
